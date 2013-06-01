@@ -1,0 +1,1 @@
+[16-Mar-2013 23:03:16] PHP Warning:  call_user_func_array() [<a href='function.call-user-func-array'>function.call-user-func-array</a>]: First argument is expected to be a valid callback, 'wpseo_activate' was given in /home2/manicexp/public_html/boulderwebguru/blog/wp-includes/plugin.php on line 406
